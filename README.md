@@ -43,9 +43,7 @@
 
 ![EdgarJoel123](https://github-readme-stats.vercel.app/api?username=EdgarJoel123&show_icons=true&theme=radical)
 
-![EdgarJoel123](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarJoel123&hide_progress=true)
-
-[![EdgarJoel123](https://github-readme-stats.vercel.app/api/wakatime?username=EdgarJoel123)](https://github.com/anuraghazra/github-readme-stats)
+![EdgarJoel123](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarJoel123&hide_progress=false)
 
 
 
