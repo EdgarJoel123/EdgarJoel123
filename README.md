@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif" width="200"/>
   <h1 aling="center">Hi 👋, I am a developer</h1>
-  <h3 aling="center">I am an eighth-semester student pursuing a degree in Software Engineering at the Technical University of Ambato. I am passionate about web and mobile application development and have experience in various programming languages, which enables me to approach different projects efficiently and creatively. </h3>
+  <h3 aling="center">I am a Software Engineer at the Technical University of Ambato. I am passionate about web and mobile application development and I have experience in several programming languages, which allows me to tackle different projects efficiently and creatively. </h3>
   
  </div>
 
