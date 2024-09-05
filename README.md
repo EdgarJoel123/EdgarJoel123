@@ -11,11 +11,11 @@
 
  ---
  ### 👽 About Me :
-- 👨🏻‍💻 Currently, I work as an intern at [EEASA](https://www.eeasa.com.ec/).
-- 🤔 Please ask me questions about Oracle, Java, and Angular.
-- 📧 You can reach me at esanchez1169joel@gmail.com.
+- 👨🏻‍💻 I am currently working as a software consultant at [Sixstar Hotels](https://www.linkedin.com/company/grupo-six-star-hotels/mycompany/).
+- 🤔 Please ask me questions about Oracle, Java and Angular, AWS.
+- 📧 You can contact me at esanchez1169joel@gmail.com.
 - ✍🏻 I am learning Vue.js and React.
-- 👻 I enjoy web and mobile development.
+- 👻 I like web and mobile development.
 
 <div align="left">
   <h3>🧩 Languajes and Tools:</h3>
